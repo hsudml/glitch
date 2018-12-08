@@ -1,4 +1,4 @@
-# glitch
+# Glitch.com
 Tips on using Glitch for web development and WebVR
 
 ## Export Glitch Project to GitHub
