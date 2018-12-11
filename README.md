@@ -1,5 +1,5 @@
 # Glitch.com
-Tips on using Glitch for web development and WebVR
+Tips on using Glitch with GitHub. [Glitch](https://glitch.com/) is a great platform for web development and WebVR.
 
 ## Export Glitch Project to GitHub
 
@@ -7,7 +7,7 @@ Video instructions: [How to export a Glitch projct to GitHub](https://youtu.be/a
 
 ### Basics
 
-1. Create a new repo in GitHub. This can be a basic user repo or an organizational repo. If it is an organization, be sure to substitute the organization name for the user name in the later step. 
+1. [Create a new repo in GitHub](https://help.github.com/articles/create-a-repo/). This can be a basic user repo or an organizational repo. If it is an organization, be sure to substitute the organization name for the user name in the later step. (Learn about the [Differences between user and organization accounts](https://help.github.com/articles/differences-between-user-and-organization-accounts/). As an example, [HSUDML](https://github.com/hsudml) is an organization and [sometimesmotion](https://github.com/sometimesmotion) is my user account.)
 
 2. Go to your project in Glitch. Click on 'Advanced Options' under the project details drop-down menu (where the name of your project is in the upper right-hand corner). 
 
@@ -33,5 +33,5 @@ Video instructions: [How to export a Glitch projct to GitHub](https://youtu.be/a
 
 ![Screenshot showing the merge pull request button](images/mergePull.png)
 
-9. Check your new repo and sit back and celebrate. 
+9. Double-check your new repo and sit back and celebrate! 
 
