@@ -17,7 +17,8 @@ Video instructions: [How to export a Glitch projct to GitHub](https://youtu.be/a
 
 ![Screenshot showing the advanced options button location](images/grantAccess.png)
 
-4. From there, click on the 'Export to GitHub' option. _Note: if the export option is grayed out, you will need to grant Glitch permission to your GitHub account, simply click the link above the grayed out button 'Grant access to import and export to a repo' to set that up._
+4. Open the Tools menu again and click on the 'Export to GitHub' option. 
+_Note: if the export option is grayed out, you will need to grant Glitch permission to your GitHub account, simply click the link above the grayed out button 'Grant access to import and export to a repo' to set that up._
 
 ![Screenshot showing the export to github button location](images/exportToGithub.png)
 
